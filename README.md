@@ -1,2 +1,2 @@
 # test
-test repository for github command
+test repository for git command
